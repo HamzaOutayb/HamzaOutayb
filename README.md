@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **houtayb@gmail.com**
 
-- ⚡ Fun fact **am loosing it lol**
+- ⚡ A Fact **Practice Makes Perfect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
