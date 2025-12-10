@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate Fullstack developer from Morocco</h3>
 
-- 💬 Ask me about **Go, Gin, Js, next.js, rust, java, python, actix**
+- 💬 Ask me about **Go, Gin, Js, next.js, rust, java, python, actix, spring-boot, sql**
 
 - 📫 How to reach me **houtayb@gmail.com**
 
